@@ -1,0 +1,46 @@
+
+
+.inc-card{
+    transition: transform .4s;
+}
+
+.inc-card:hover{
+
+    transform: scale(1.05) ;
+
+}
+
+
+.footer{
+    background-color: rgb(136, 131, 131);
+}
+
+
+
+
+
+
+
+.ft-col a{
+
+    text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    color: white;
+    /* transition: transform .3s; */
+
+
+
+}
+
+
+.ft-col a:hover{
+    text-decoration: underline;
+    /* transform: scale(1.05) ; */
+}
+.social img{
+    width: 50px;
+    padding: 4px;
+
+}
